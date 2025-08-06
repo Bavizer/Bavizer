@@ -23,3 +23,4 @@
 # 🔒 Private works
 - **[My Unity project](https://youtu.be/u7kcoOwWY0Y) - 3D Unity project.**
 - **[Mingle game](https://youtu.be/8IksiLnI9GY) - a plugin, that adds "Mingle game" from "Squid Game 2" to SCP: SL game. Includes code and game location (primitives only).**
+- **[SCP: SL Turrets](https://youtu.be/bFS-RmS9ihE) - a plugin, that adds different turrets to SCP: SL game.**
