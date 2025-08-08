@@ -1,16 +1,24 @@
 # ℹ About Me:
-<h3>⭐ .NET Developer<br>🎮 Unity Engine<br>🌐 ASP .NET Core (MVC / Web API / Razor Pages)</h3>
+<h3>⭐ .NET Developer<br>
+  🎮 Unity Engine<br>
+  👨‍💻 SCP: Secret Laboratory plugins<br>
+  🌐 ASP .NET Core (MVC / Web API / Razor Pages)</h3>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack: 
+## Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
+
+## Frameworks:
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP .NET Core](https://img.shields.io/badge/ASP%20.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![EntityFramework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge)
+![EntityFramework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+## Other
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
